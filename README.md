@@ -1,7 +1,7 @@
 # Hi, I'm Anakha Bindu 👋
 
 ## What I Build
-B2B SaaS PM with hands-on experience in iGaming. I build tools and prototypes that improve product workflows, player engagement, and operational efficiency — using AI where it actually makes a difference.
+B2B SaaS PM with hands-on experience in iGaming, Logistics, Real Estate. I build tools and prototypes that improve product workflows, player engagement, and operational efficiency — using AI where it actually makes a difference.
 
 ## What I'm Working On
 - 🔨 Crash game (0→1) — defining mechanics and player experience with a third-party studio at Inspired Entertainment
