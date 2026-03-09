@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm Anakha Bindu 👋
 
-<!--
-**Anakha-Bindu/Anakha-Bindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## What I Build
+  B2B SaaS PM with hands-on experience in iGaming. I build tools and prototypes
+   that improve product workflows, player engagement, and operational
+  efficiency — using AI where it actually makes a difference.
 
-Here are some ideas to get you started:
+  ## What I'm Working On
+  - 🔨 Crash game (0→1) — defining mechanics and player experience with a
+  third-party studio at Inspired Entertainment
+  - 🛠️  Previously shipped: industry-first multiplayer game mechanic + a
+  promotional management system with multi-game, multi-currency support
+  - 🤝 Open to connecting with PMs, founders, and teams building in SaaS or
+  iGaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Connect
+  - 💼 [LinkedIn](https://www.linkedin.com/in/anakha-b-9a9802125/)
+  - 📧 [Email](mailto:your@email.com)
+
+  ---
+  *B2B SaaS PM in iGaming. Building things to think better.*
