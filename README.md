@@ -1,11 +1,37 @@
+
 # Hi, I'm Anakha Bindu 👋
 
-## What I Build
-B2B SaaS PM with hands-on experience in iGaming, Logistics, Real Estate. I build tools and prototypes that improve product workflows, player engagement, and operational efficiency — using AI where it actually makes a difference.
+**Product Manager** | iGaming · B2B SaaS · 0-to-1 Launches
 
-## What I'm Working On
-- 🔨 Crash game (0→1) — defining mechanics and player experience with a third-party studio at Inspired Entertainment
-- 🛠️ Previously shipped: industry-first multiplayer game mechanic + a promotional management system with multi-game, multi-currency support
+📍 Kochi, India · [LinkedIn](https://linkedin.com/in/anakha-b-9a9802125/) · anakha834@gmail.com
+
+---
+
+Product Manager with 9+ years across iGaming, B2B SaaS, and enterprise logistics. Started as a developer (Angular, JavaScript, REST APIs), moved into customer-facing product roles, now ship products from concept to regulated markets globally at **Inspired Entertainment**.
+
+## Highlights
+
+- **Player Link™** — industry-first multiplayer mechanic; £600K revenue for top customer in week one; tied to 49% YoY Interactive revenue growth
+- **Promotional management system** — built from scratch; 6,000+ player opt-ins and 56K game cycles in a 2-day pilot; 20% faster campaign setup
+- **User retention optimization** — analytics-driven funnel work improving return rates ~30%
+- **Enterprise SaaS partnerships** — DHL, Kuehne + Nagel; 4.8/5 client satisfaction
+
+## Tools & Tech
+
+```
+Product:    JIRA · Confluence · Figma · Balsamiq · Lucidcharts · Monday.com · MS Clarity
+Technical:  Angular · JavaScript · HTML5 · CSS3 · REST APIs · SQL · GitHub
+AI:         Claude AI · ChatGPT · Lovable · NotebookLM
+```
+
+## Career Path
+
+```
+Inspired Entertainment (2022+)  → PM: 0-to-1 launches, regulated markets, engagement & revenue
+QBurst Technologies (2020-22)   → Sr. BA: enterprise SaaS 
+Infosys (2017-20)               → Sr. Systems Engineer: production code, system design
+```
+
 - 📚 Learning AI agents and building with Claude Code + Cursor
 - 🤝 Open to connecting with PMs, founders, and teams building in SaaS or iGaming
 
@@ -14,4 +40,5 @@ B2B SaaS PM with hands-on experience in iGaming, Logistics, Real Estate. I build
 - 📧 [Email](mailto:anakha834@gmail.com)
 
 ---
-*B2B SaaS PM in iGaming. Building things to think better.*
+
+*Open to PM roles in gaming, iGaming, and B2B SaaS. Let's talk.*
