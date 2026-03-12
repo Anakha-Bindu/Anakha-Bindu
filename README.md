@@ -41,4 +41,3 @@ Infosys (2017-20)               → Sr. Systems Engineer: production code, syste
 
 ---
 
-*Open to PM roles in gaming, iGaming, and B2B SaaS. Let's talk.*
